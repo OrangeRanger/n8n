@@ -4,8 +4,7 @@ services:
     runtime: image
     plan: free  # Upgrade to 'starter' (~$5/mo) for no spin-down
     image:
-        url: docker.io/n8nio/n8n
-        tag: latest
+      url: docker.io/n8nio/n8n:latest
     envVars:
       - key: DB_TYPE
         value: postgresdb
