@@ -29,6 +29,6 @@ services:
       - key: N8N_BASIC_AUTH_ACTIVE
         value: true  # For security
       - key: N8N_BASIC_AUTH_USER
-        value: admin  # Change if you want
+        value: realjohnzeljeric.berania@gmail.com  # Change if you want
       - key: N8N_BASIC_AUTH_PASSWORD
         value: Dalandan012345**  # Pick a strong one
