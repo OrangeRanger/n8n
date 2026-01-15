@@ -15,7 +15,7 @@ services:
       - key: DB_POSTGRESDB_PORT
         value: 5432  # Session mode
       - key: DB_POSTGRESDB_USER
-        value: postgres.gcwamhqsmlawiunekgsq  # Copy exactly from your Supabase dashboard
+        value: postgres.frebodcolfsjlhztozbi  # Copy exactly from your Supabase dashboard
       - key: DB_POSTGRESDB_PASSWORD
         value: Dalandan012345**  # Replace with your actual Supabase password
       - key: DB_POSTGRESDB_SCHEMA
