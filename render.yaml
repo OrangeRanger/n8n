@@ -25,7 +25,7 @@ services:
       - key: DB_POSTGRESDB_CONNECTION_TIMEOUT
         value: 60000  # 60s for reliability
       - key: WEBHOOK_URL
-        value: https://your-render-service.onrender.com/  # Set after deploy (leave as is for now)
+        value: https://dalandan.onrender.com/  # Set after deploy (leave as is for now)
       - key: N8N_BASIC_AUTH_ACTIVE
         value: true  # For security
       - key: N8N_BASIC_AUTH_USER
